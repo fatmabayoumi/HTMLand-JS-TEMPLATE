@@ -1,0 +1,47 @@
+  body {
+      background-color: #fdf1e6;
+
+      font-family: "PT Sans Caption", sans-serif;
+    }
+
+   .tiltleicon{
+font-family: "Righteous", cursive;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .tittle{
+        font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+    isolation: isolate;
+    border-bottom: 2px dashed;
+  }
+
+  .button{
+    margin: 2px;
+    padding: 15px;
+    border-bottom: 2px dashed;
+  }
+
+  .visit{
+    background-color: #9eb23b;
+    color: #fff;
+    padding: 7px;
+    border-radius: 5px;
+    border-color:#9eb23b ;
+  }
+
+
+    .visit:hover{
+      background-color: #6e8018;
+    }
+    .delete{
+      background-color: #eb1d36;
+          color: #fff;
+    padding: 7px;
+    border-radius: 5px;
+      border-color: #eb1d36;
+    }
